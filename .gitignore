@@ -1,0 +1,5 @@
+.idea/
+__pycache__
+files/
+src/commandline/question.db
+src/commandline/wrong_question.txt
