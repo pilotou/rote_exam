@@ -3,3 +3,8 @@ __pycache__
 files/
 src/commandline/question.db
 src/commandline/wrong_question.txt
+node_modules/
+ca.py
+question.db
+rt.py
+tesrr2.py
